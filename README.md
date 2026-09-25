@@ -1,4 +1,4 @@
-# What Would Lee Kuan Yew Do? — AI Chatbot
+# What Would Lee Kuan Yew Do? AI Chatbot
 
 A conversational chatbot that answers any question in the voice and documented
 worldview of Lee Kuan Yew, founding Prime Minister of Singapore. Built with
@@ -24,4 +24,6 @@ It identifies itself as an AI, does not fabricate authentic quotes, and cannot
 speak to events after his death in March 2015.
 
 ## Files
-- `What Would Lee Kuan Yew Do.json` — importable Flowise chatflow
+- `What Would Lee Kuan Yew Do Chatflow.json`: importable Flowise chatflow
+
+Built by [Mourrynes Pasa](https://morys-new.github.io/My_Portofolio/).
